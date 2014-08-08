@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /theme-setup/
-title: Theme Setup
+permalink: /get-started/
+title: How to get started
 description: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
 tags: [Jekyll, theme, responsive]
 image:
