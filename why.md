@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /why/
 title: Why PowerMatcher
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [PowerMatcher, Why]
