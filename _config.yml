@@ -40,10 +40,11 @@ links:
   - title: About
     url: /about/
   - title: Why PM?
-    url: /theme-setup/
+    url: /why/
   - title: Get started
     url: /get-started/
-
+  - title: theme-setup (temp)
+    url: /theme-setup/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
 future:      true
