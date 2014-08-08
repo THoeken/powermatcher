@@ -12,8 +12,12 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-##  ##
-
-In a world increasingly concerned about the cost, availability and environmental consequences of conventional energy supplies, the electrical power industry stands on the cusp of a profound transition. Presently, the power industry has to cope with a growing electricity demand using an ageing electricity infrastructure. This in parallel with the transition towards generation through intermittent and decentralized sources of clean(er) energy poses landmark challenges for the sector. Consumers are becoming “Prosumers”, by using energy from the grid at one time, while feeding in at another. Further, the supply-side controllability decreases since part of the installed capacity is intermittent and dependent on external conditions such as weather (wind, sun) or local heat demand (cogeneration).
-If energy supply and demand responded to real time and varying energy prices, a huge potential for controllability gains on the demand side would be generated. For instance, charging of the batteries of electric or plug in hybrid vehicles would create a price sensitive outlet for off peak demand. To address these challenges in a cost-effective manner, the Smart Grid requires a scaleable two-way coordination mechanism that is able to communicate and optimize over a multitude of small to medium-sized controllable generators and loads, with the Smart Meter acting as the key enabler.
-
+## A quick overview of the PowerMatcher technology ##
+The PowerMatcher is an information and communications technology (ICT) for coordination in a smart electricity grid. It is capable of optimizing over high numbers of small units: distributed generators, responsive demand and electricity storage.
+The PowerMatcher is designed for scalability: in future power systems high numbers of smaller units, typically 100W to 5MW, will be involved in coordination tasks.
+The technology is using available open industry standards in both the ICT and energy sectors.
+Since its incarnation in 2004, the PowerMatcher has been implemented in three major software versions. In a spiral approach, each software version was implemented from scratch with the first two versions being tested in simulations and field experiments. The current, third, version is planned to be deployed in a number of field experiments and real-life demonstrations with a positive business case.
+ 
+A changing electricity system
+Electricity grids are facing a continuous increase of fluctuating renewable power sources. This increase happens on a central level (off-shore wind, large-scale solar power plants) as well as on a distributed, decentralized level (micro-scale renewables and CHP). Increasing volumes of electricity from wind turbines, photovoltaic generators and others cause power fluctuations that require additional balancing effort.
+World-wide electricity use is ever-growing. The “electrification of everything”, the growth in the number of devices that require electricity, is one of the main drivers. Over the course of the 20th century, electricity has made a transition from a novelty, to a convenience, to an advantage, and finally to an absolute necessity.
