@@ -22,3 +22,7 @@ The PowerMatcher can be used for:
  
 ## The PowerMatcher approach ##
 
+
+## Current implementations ##
+Current PowerMatcher implementations can be found on the [Flexiblepower Alliance Network
+http://www.flexiblepower.org/implementations/]
