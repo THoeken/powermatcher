@@ -23,3 +23,16 @@ If energy supply and demand responded to real time and varying energy prices, a 
 The missing link is a communication and coordination protocol for Smart Grids, as part of a complete system architecture. An electricity network is needed that responds dynamically to the permanently changing supply and demand situations through real time market based solutions that automate control operations. Energy companies, consumers and regulators alike are seeking a vision for the grid, that extends the accommodation capabilities for increasing renewable energy generation. The envisaged system incorporates advanced grid technologies which enable complete grid communication and coordination from the consumer up all the way up to the network operator and the wholesale markets.
 
 ## PowerMatcher ##
+
+
+## PowerMatcher Business Cases ##
+Business cases for the PowerMatcher can be found in electricity trading, active distribution management and in energy management in homes and buildings.
+ 
+Business Cases in Electricity Trading
+With the PowerMatcher technology virtual power plants can be created, clustering numerous distributed generators, responsive loads and electricity storages in a single operational unit. Such a virtual plant is able to provide flexibility services for the balancing markets.
+In a field test involving industrial & residential generation and demand response the PowerMatcher was used to balance wind energy production. The system achieved an imbalance reduction of 40 – 45%.
+In the Dutch balancing market, a 100MW wind farm has approx. 1 Mio euros imbalance costs on an annual turn over of approx. 10 Mio euros.
+ 
+Business Cases in Active Distribution Management
+In distribution system operations, PowerMatcher business cases can be found in network congestion management, network load profile shaping and black-start support, for instance
+In a field test involving 10 micro-CHP systems at the premises of end-customer’s premises, PowerMatcher showed capable of reducing the peak load at the MV/LV transformer with 30% to 50%.
