@@ -45,6 +45,8 @@ links:
     url: /features/
   - title: Get started
     url: /get-started/
+   - title: Get involved
+    url: /get-involved/
   - title: theme-setup (temp)
     url: /theme-setup/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
