@@ -39,11 +39,10 @@ links:
     url: /posts/
   - title: About
     url: /about/
-  - title: Theme Setup
+  - title: Why PM?
     url: /theme-setup/
-  - title: How to get involved?
-    url: http://mademistakes.com
-    external: true
+  - title: Get started
+    url: /get-started/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
