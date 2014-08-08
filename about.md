@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About the PowerMatcher
 tagline: PowerMatcher, Mission, 
-tags: [about, PowerMatcher, FAN, responsive]
+tags: [about, PowerMatcher, FAN, Transactive Energy]
 modified: 8-8-2014
 comments: true
 image:
@@ -25,6 +25,6 @@ The project is licenced under the Apache License, Version 2.0.
 
 ## Contact ##
 If you want to get in touch.
-* Twitter
-* info (_a_t_) flexiblepower.org
-* Github (fire an issue)
+*Twitter
+*info (_a_t_) flexiblepower.org
+*Github (fire an issue)
