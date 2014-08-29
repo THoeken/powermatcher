@@ -17,7 +17,7 @@ http://www.flexiblepower.org/
 
 
 ## Mission statement ##
-This is a test.
+This is a test. This is a test 2.
 
 ## Licence ##
 The project is licenced under the Apache License, Version 2.0. 
