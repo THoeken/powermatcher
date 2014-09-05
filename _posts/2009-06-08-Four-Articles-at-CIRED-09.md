@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Four Articles at CIRED'09
-description: "First PowerMatcher seminar successful"
+description: "Four Articles at CIRED'09"
 tags: [PowerMatcher,CIRED, Gigre, Nedap, AREVA]
 comments: true
 ---
@@ -18,7 +18,7 @@ The third presented paper is more theoretical in nature and is part of Kok’s P
 The fourth paper was presented by Josco Kester in one of the sessions on Network Components. On behalf of an industry consortium, Josco presented the Smart Distribution Station, a smart MV/LV-station able of managing power flows while maintaining power quality and reliability. A prototype of this station is currently being tested in the Flex Power Grid Lab in Arnhem (NL). Demonstration in a live test grid of the Dutch grid operator Liander will be conducted in a later stage. First simulation results show a significant reduction of harmonic voltages and resonances, as well as a peak load reduction of 30%. PowerMatcher technology integrated in the station is contributing to the latter.
 
 Downloads
-[Field Test Upscaling](http://www.ecn.nl/publications/default.aspx?nr=ECN-M--09-081/)
-[Smart Houses in a Smart Grid](http://www.ecn.nl/publications/default.aspx?nr=ECN-M--09-110)
-[Agent Strategies](http://www.ecn.nl/publications/default.aspx?nr=ECN-M--09-111)
-[Smart Distribution Station](http://www.ecn.nl/publications/default.aspx?nr=ECN-M--09-087)
+#[Field Test Upscaling](http://www.ecn.nl/publications/default.aspx?nr=ECN-M--09-081/)
+#[Smart Houses in a Smart Grid](http://www.ecn.nl/publications/default.aspx?nr=ECN-M--09-110)
+#[Agent Strategies](http://www.ecn.nl/publications/default.aspx?nr=ECN-M--09-111)
+#[Smart Distribution Station](http://www.ecn.nl/publications/default.aspx?nr=ECN-M--09-087)
