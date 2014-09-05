@@ -32,6 +32,9 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+#UTF-8
+encoding: UTF-8
+
 # Links to include in top navigation
 # For external links add external: true
 links:
