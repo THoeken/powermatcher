@@ -5,10 +5,6 @@ description: "Just about everything you'll need to style in the theme: headings,
 modified: 2013-05-31
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
-image:
-  feature: texture-feature-05.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
 **More and more electrically-powered vehicles are appearing on the market. They are charged using the existing electricity grid. But the grid may be overloaded if an increasing number of consumers charge their vehicles at the same time. ECN examines how to avoid such a peak load in the electricity grid. The answer is by using ECN’s PowerMatcher.
