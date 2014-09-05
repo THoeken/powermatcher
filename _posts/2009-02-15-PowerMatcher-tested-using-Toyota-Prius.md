@@ -7,9 +7,10 @@ comments: true
 ---
 
 **More and more electrically-powered vehicles are appearing on the market. They are charged using the existing electricity grid. But the grid may be overloaded if an increasing number of consumers charge their vehicles at the same time. ECN examines how to avoid such a peak load in the electricity grid. The answer is by using ECN’s PowerMatcher.
-<img src="http://flexiblepower.github.io/powermatcher/images/RTEmagicC_Prius_Grid_Connection_Close-up.jpg">
 PowerMatcher is a software technology developed by the Energy Research Centre of the Netherlands (ECN). The technology harmonises the actions of electrical devices. To do so the software adds intelligence to devices like a battery charger for electrical vehicles.
 PowerMatcher determines automatically when the charger can best take electricity from the grid. It ‘sees’ when the electricity is expensive or inexpensive and whether there is a big or small supply of electricity and waits for the best moment to activate the charger. This controls the energy load on the grid to achieve the most favourable total load possible.
+
+<img src="http://flexiblepower.github.io/powermatcher/images/RTEmagicC_Prius_Grid_Connection_Close-up.jpg">
 
 ##Testing
 “To test PowerMatcher the ECN Efficiency & Infrastructure unit purchased a Toyota Prius,” explains Peter van der Laag, who works for ECN Intelligent Energy Grids. He is building up knowledge of grid-coupled electricity storage. “By charging the vehicle battery with PowerMatcher, we are studying how the battery responds, its efficiency, how long charging takes and what service life the battery has. The vehicle is equipped with test equipment to measure the battery’s behaviour and to analyse data”.
