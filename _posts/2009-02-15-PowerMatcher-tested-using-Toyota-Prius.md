@@ -1,8 +1,8 @@
 ---
 layout: post
 title: PowerMatcher tested using Toyota Prius
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-tags: [intro, beginner, jekyll, tutorial]
+description: "PowerMatcher tested using Toyota Prius"
+tags: [PowerMatcher, Prius, EV]
 comments: true
 ---
 
