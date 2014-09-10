@@ -12,10 +12,8 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-## development status ##
-The current activities can be found on Github.
-
-
+## Development status ##
+The current activities can be found on [Github](https://github.com/flexiblepower "Github")
 
 ## Coding guidelines ##
 Coding guidelines can be found on the github wiki pages.
