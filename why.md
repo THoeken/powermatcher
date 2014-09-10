@@ -27,6 +27,23 @@ The missing link is a communication and coordination protocol for Smart Grids, a
 
 ## PowerMatcher Business Cases ##
 Business cases for the PowerMatcher can be found in electricity trading, active distribution management and in energy management in homes and buildings.
+
+Examples of business areas which could benefit from PowerMatcher are the following:
+
+### Flexibility service providers (FSP) ###
+The FSP aggregates flexibility from individual households and/or businesses and offers it to flexibility consumers. 
+
+### Community service providers (CSP) ###
+The CSP aggregates flexibility from a group of households (e.g. a community) and offers it to flexibility consumers.
+
+### Energy service companies (ESCO) ###
+ESCO's use the flexibility of individual businesses in order to reduce the connection capacity.
+
+### Domotics / Intelligent Homes ###
+Use the flexibility available at individual households such that locally generated electricity is used on the spot as much as possible.
+
+
+
  
 #Business Cases in Electricity Trading
 With the PowerMatcher technology virtual power plants can be created, clustering numerous distributed generators, responsive loads and electricity storages in a single operational unit. Such a virtual plant is able to provide flexibility services for the balancing markets.
