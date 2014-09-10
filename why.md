@@ -39,10 +39,21 @@ The CSP aggregates flexibility from a group of households (e.g. a community) and
 ### Energy service companies (ESCO) ###
 ESCO's use the flexibility of individual businesses in order to reduce the connection capacity.
 
-### Domotics / Intelligent Homes ###
+### Domotica / Intelligent Homes ###
 Use the flexibility available at individual households such that locally generated electricity is used on the spot as much as possible.
 
 
+
+## Need for flexibility
+In the Netherlands, the following parties benefit from flexibility:
+
+### Balance response party (BRP)
+
+### Grid operator (TSO and DSO)
+
+### Individual end user  
+
+### Flexibility providers
 
  
 #Business Cases in Electricity Trading
