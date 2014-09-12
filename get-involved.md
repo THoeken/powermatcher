@@ -31,7 +31,7 @@ General information on how the FAN projects work can be found the [FAN-wiki](htt
 Project specific information can be found in the related repository e.g. [PowerMatcher](https://github.com/flexiblepower/fpai-powermatcher) or [FPAI](https://github.com/flexiblepower/powermatcher)
 
 ## Stuff to work on ##
-Look for an issue what fits you. E.g. [PowerMatcher](https://github.com/flexiblepower/fpai-powermatcher/issues) or [FPAI](https://github.com/flexiblepower/powermatcher/issues) or [FAN general items ](https://github.com/flexiblepower/FAN-wiki/issues)
+Look for an issue that fits you. E.g. [PowerMatcher](https://github.com/flexiblepower/fpai-powermatcher/issues) or [FPAI](https://github.com/flexiblepower/powermatcher/issues) or [FAN general items ](https://github.com/flexiblepower/FAN-wiki/issues)
 
 ## Communication channels ##
 The communication channels can be found on the [FAN Github wiki](https://github.com/flexiblepower/FAN-wiki/wiki/Communication-channels).
@@ -43,5 +43,5 @@ The current activities can be found on [Github](https://github.com/orgs/flexible
 ## Coding guidelines ##
 Coding guidelines can be found on the github wiki pages.
 
-
+--- New page: Why join the development ---
 
