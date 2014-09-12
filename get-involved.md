@@ -3,8 +3,8 @@ layout: page
 permalink: /get-involved/
 title: Get involved with the PowerMatcher
 tagline: PowerMatcher, Github
-tags: [PowerMatcher, get involved, Transactive Energy]
-modified: 8-8-2014
+tags: [Community, open source, Gitub, PowerMatcher, get involved, Transactive Energy]
+modified: 12-9-2014
 comments: true
 image:
   feature: texture-feature-02.jpg
