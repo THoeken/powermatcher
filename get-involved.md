@@ -45,7 +45,8 @@ Coding guidelines can be found on the github wiki pages.
 
 
 
---- New page: Why to join the development ---
+## -- New page: Why to join the development -- ##
+
 ## Reasons to join the development ##
 There are multiple reasons to join the development.
 
@@ -61,12 +62,16 @@ If PowerMatcher/FPAI adds value to your business/organization, there are multipl
 3. Don't lose time on integration
 	* It can be time consuming to merge the open source edition with your proprietary extensions. It saves time to contribute these extensions to the project.
 4. More features attract more users
-	*If there are more devices/features, it is likely to increase the adoption of the software. This can lead to more customers of the organization. 
+	*If there are more devices/features, it is likely to increase the adoption of the software, This can lead to more customers of the organization. 
 5. More innovation
 	*By participating in the community you can look for innovation to add to your product
-	
+6. Get your contributions accepted faster
+	*Known programmers with a good reputation within the project can add code more easily
+7. Proof your customers that you know the software since you make active contributions.
+		
 ## Individuals ##
 People have motivations to join the development e.g.:
+
 1. Economic
 	* Job (works for an organization)
 	* Good for reputation (Resume)
