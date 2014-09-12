@@ -43,5 +43,39 @@ The current activities can be found on [Github](https://github.com/orgs/flexible
 ## Coding guidelines ##
 Coding guidelines can be found on the github wiki pages.
 
---- New page: Why join the development ---
 
+
+--- New page: Why to join the development ---
+## Reasons to join the development ##
+There are multiple reasons to join the development.
+
+## Organizations ##
+If PowerMatcher/FPAI adds value to your business/organization, there are multiple reasons to join the development e.g.:
+
+1. Reduces risks
+	* Security (make sure that new features are save for you to implement)
+	* Built new features and ask others members to help
+	* The community might be able to help with issues
+2. Compatibility
+	* Help others to make sure that your products are compatible with new releases 
+3. Don't lose time on integration
+	* It can be time consuming to merge the open source edition with your proprietary extensions. It saves time to contribute these extensions to the project.
+4. More features attract more users
+	*If there are more devices/features, it is likely to increase the adoption of the software. This can lead to more customers of the organization. 
+5. More innovation
+	*By participating in the community you can look for innovation to add to your product
+	
+## Individuals ##
+People have motivations to join the development e.g.:
+1. Economic
+	* Job (works for an organization)
+	* Good for reputation (Resume)
+2. Social
+	* Fun in programming
+	* Likes to improve the world by sharing code (e.g. green future)
+	* Likes to be part of the community
+3. Technical
+	* Likes to learn technology
+	* Like to work with cutting edge technology
+
+	
