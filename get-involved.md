@@ -25,14 +25,14 @@ There are multiple ways to contribute to the project. Some examples:
 * Promote the project
 
 ## Github ##
-The home of the open source projects is [Github](https://github.com/flexiblepower).
+The home of the open source projects is [Github :octocat:](https://github.com/flexiblepower).
 
 ## How to contribute ##
 General information on how the FAN projects work can be found the [FAN-wiki](https://github.com/flexiblepower/FAN-wiki/wiki). 
 Project specific information can be found in the related repository e.g. [PowerMatcher](https://github.com/flexiblepower/fpai-powermatcher) or [FPAI](https://github.com/flexiblepower/powermatcher)
 
 ## Communication channels ##
-The communication channels can be found on the [FAN Github wiki](https://github.com/flexiblepower/FAN-wiki/wiki/Communication-channels)).
+The communication channels can be found on the [FAN Github wiki](https://github.com/flexiblepower/FAN-wiki/wiki/Communication-channels).
 The main communication channels are Github issues.
 
 ## Development status ##
