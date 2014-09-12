@@ -13,7 +13,7 @@ image:
 ---
 
 ## Development status ##
-The current activities can be found on [Github](https://github.com/flexiblepower)
+The current activities can be found on [Github](https://github.com/flexiblepower).
 
 ## Coding guidelines ##
 Coding guidelines can be found on the github wiki pages.
