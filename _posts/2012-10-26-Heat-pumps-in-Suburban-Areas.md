@@ -23,4 +23,6 @@ The results demonstrate significant peak load reduction can be achieved as shown
 In case of a black start PowerMatcher is able to maintain the maximum load at the substation below a certain maximum load as well as on a cold morning. It was also demonstrated this peak load reduction is at the expense of only a small decrease of comfort.
 Information
 More information about this study can be found at the smart proofs website and in the ECN newsletter of December 2010.
-Newsletter
+
+
+[Newsletter](http://www.ecn.nl/nl/nieuws/newsletter-en/2010/december-2010/smart-grid-reduces-need-of-substations/)
