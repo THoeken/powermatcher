@@ -33,7 +33,7 @@ The PowerMatcher can be used for:
 Within a PowerMatcher cluster the agents are organized into a logical tree. The leafs of this tree are a number of local device agents and, optionally, a unique  objective agent. The root of the tree is formed by the auctioneer agent, a unique agent that handles the price forming, i.e. the search for the equilibrium price. In order to obtain scalability, concentrator agents can be added to the structure as tree nodes.
 A more detailed description of the agent roles is as follows:
 
- <img src="images/PM_Overview_Diagram_Color_05_Agents.png">
+ <img src="{{ site.url }}/images/PM_Overview_Diagram_Color_05_Agents.png">
 
 * Local device agent: Representative of a DER device. A control agent which tries to operate the process associated with the device in an economical optimal way. This agent coordinates its actions with all other agents in the cluster by buying or selling the electricity consumed or produced by the device on an electronic market. In order to do so, the agent communicates its latest bid to the auctioneer and receives price updates from the auctioneer. Its own latest bid, together with the current price, determines the amount of power the agent is obliged to produce or consume. 
 * Auctioneer agent: Agent that performs the price-forming process. The auctioneer concentrates the bids of all agents directly connected to it into one single bid, searches for the equilibrium price and communicates a price update back whenever there is a significant price change. 
