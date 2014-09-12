@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overview of publications
-description: "Overview of Recent Achievements"
+description: "Overview of Achievements & Papers"
 tags: [PowerMatcher, Achievements, jekyll, tutorial]
 comments: true
 ---
