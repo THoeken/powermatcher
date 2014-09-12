@@ -15,6 +15,7 @@ image:
 PowerMatcher and FPAI are open source projects. Contributions are welcome to improve the experience.
 
 There are multiple ways to contribute to the project. Some examples:
+
 * Share your experience with others (e.g. via powermatcher.org)
 * Improve documentation (any kind)
 * Report bugs
