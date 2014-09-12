@@ -5,8 +5,12 @@ description: "Overview of Recent Achievements"
 tags: [PowerMatcher, Achievements, jekyll, tutorial]
 comments: true
 ---
+## The PowerMatcher: Smart Coordination for the Smart Electricity Grid ##
+Koen Kok, May 13, 2013
 
-## Overview of Recent Achievements ##
+[Article Book](http://dare.ubvu.vu.nl/bitstream/handle/1871/43567/dissertation.pdf?sequence=1)
+
+## Overview of Achievements ##
 J.K. Kok, B. Roossien, P.A. MacDougall, O.P. Pruissen, G. Venekamp, I.G. Kamphuis, J.A.W Laarakkers, and C.J. Warmer, “__Dynamic Pricing by Scalable Energy Management Systems - Field Experiences and Simulation Results using PowerMatcher__”, IEEE Power and Energy Society General Meeting 2012, IEEE, 2012.
 
 
