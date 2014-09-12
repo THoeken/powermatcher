@@ -15,13 +15,13 @@ image:
 PowerMatcher and FPAI are open source projects. Contributions are welcome to improve the experience.
 
 There are multiple ways to contribute to the project. Some examples:
-* Share your experience with others
-* Improve documentation (any kind)
-* Report bugs
-* Send in feature requests
-* Fix bugs
-* Develop new features
-* Promote the project
+ * Share your experience with others (e.g. via powermatcher.org)
+ * Improve documentation (any kind)
+ * Report bugs
+ * Send in feature requests
+ * Fix bugs
+ * Develop new features
+ * Promote the project
 
 ## Github ##
 The home of the open source projects is [Github] (https://github.com/flexiblepower).
