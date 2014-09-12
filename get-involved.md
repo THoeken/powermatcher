@@ -13,6 +13,7 @@ image:
 ---
 
 PowerMatcher and FPAI are open source projects. Contributions are welcome to improve the experience.
+
 There are multiple ways to contribute to the project. Some examples: 
 * Share your experience with others (e.g. via powermatcher.org)
 * Improve documentation (any kind)
@@ -23,7 +24,7 @@ There are multiple ways to contribute to the project. Some examples:
 * Promote the project
 
 ## Github ##
-The home of the open source projects is [Github](https://github.com/flexiblepower).
+The home of the open source projects is [Github.com/flexiblepower](https://github.com/flexiblepower).
 
 ## How to contribute ##
 General information on how the FAN projects work can be found the [FAN-wiki](https://github.com/flexiblepower/FAN-wiki/wiki). 
