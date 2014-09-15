@@ -23,7 +23,7 @@ This is a test. This is a test 2.
 The project is licenced under the Apache License, Version 2.0. 
 
 ## Use of PowerMatcher Trademark ##
-PowerMatcher is an [http://oami.europa.eu/eSearch/#details/trademarks/004298097](registered trademark of TNO).
+PowerMatcher is an [http://oami.europa.eu/eSearch/#details/trademarks/004298097/](registered trademark of TNO).
 
 # Non-commercial use #
 The PowerMatcher trademark can be used for non-comercial use if:
