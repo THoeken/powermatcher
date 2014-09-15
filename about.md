@@ -31,10 +31,13 @@ The PowerMatcher trademark can be used for non-comercial use if:
 * 
 
 # Commercial use #
-Companies can only use the PowerMatcher trademark in any publications if they are a member of the Flexiblepower alliance network ([FAN](http://www.flexiblepower.org/)).
-More information on memberships can be found on [http://www.flexiblepower.org/](http://www.flexiblepower.org/join/)
+Companies can only use the PowerMatcher trademark (in any publication) if they are a member of the Flexiblepower alliance network ([FAN](http://www.flexiblepower.org/)).
+More information on memberships can be found on [http://www.flexiblepower.org/](http://www.flexiblepower.org/join/).
+
+
 ## Contact ##
 If you want to get in touch.
+
 * Github (fire an issue)
 * Twitter
 * info (_a_t_) flexiblepower.org
