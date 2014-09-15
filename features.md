@@ -24,8 +24,8 @@ A changing electricity system
 
 ## key Features ##
 The PowerMatcher can be used for:
- - Peakshaving
- - Balancing energy production and demand
+* Peakshaving
+* Balancing energy production and demand
  
 ## The PowerMatcher approach ##
 
