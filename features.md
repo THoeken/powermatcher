@@ -19,6 +19,7 @@ image:
 * Since its incarnation in 2004, the PowerMatcher has been implemented in three major software versions. In a spiral approach, each software version was implemented from scratch with the first two versions being tested in simulations and field experiments. The current, third, version is planned to be deployed in a number of field experiments and real-life demonstrations with a positive business case.
 
 A changing electricity system
+
 * Electricity grids are facing a continuous increase of fluctuating renewable power sources. This increase happens on a central level (off-shore wind, large-scale solar power plants) as well as on a distributed, decentralized level (micro-scale renewables and CHP). Increasing volumes of electricity from wind turbines, photovoltaic generators and others cause power fluctuations that require additional balancing effort.
 * World-wide electricity use is ever-growing. The “electrification of everything”, the growth in the number of devices that require electricity, is one of the main drivers. Over the course of the 20th century, electricity has made a transition from a novelty, to a convenience, to an advantage, and finally to an absolute necessity.
 
