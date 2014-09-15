@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+description: "Home of the PowerMatcher"
 tags: [PowerMatcher, Youtube, basics, powermatcher.org]
 image:
   feature: powermatcher-logo.png
