@@ -40,3 +40,6 @@ If you want to get in touch.
 * Github (fire an issue)
 * Twitter
 * info (_a_t_) flexiblepower.org
+
+
+[http://oami.europa.eu/eSearch/#details/trademarks/004298097/](registered trademark of TNO)
