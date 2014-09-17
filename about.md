@@ -31,7 +31,9 @@ The PowerMatcher trademark can be used for non-comercial use if the solution is 
 
 # Commercial use #
 Companies can only use the PowerMatcher trademark (in any publication) if they are a member of the Flexiblepower alliance network ([FAN](http://www.flexiblepower.org/)).
-More information on FAN memberships can be found on [http://www.flexiblepower.org/](http://www.flexiblepower.org/join/). Small companies (max 5 people) or (max EURO 150 000 turnover) are excepted form being a FAN member and can use the PowerMatcher trademakr/logo without costs. 
+More information on FAN memberships can be found on [http://www.flexiblepower.org/](http://www.flexiblepower.org/join/). 
+
+Small companies (max 5 people) or (max EURO 150 000 turnover) are excepted form being a FAN member and can use the PowerMatcher trademakr/logo without costs, this is only valid if the solution is 100% open source. 
 
 
 ## Contact ##
