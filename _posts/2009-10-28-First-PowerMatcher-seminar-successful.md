@@ -8,7 +8,7 @@ comments: true
 
 The PowerMatcher makes a necessary step towards practice. The current increase in renewable energy sources makes matching of energy demand and supply more and more an urgent matter. On October 28th, around 120 professionals from Flanders and The Netherlands gathered in Breda for the First PowerMatcher Seminar. The broad group of attendants, for the largest part representing industrial parties, learned how the PowerMatcher technology makes its step from research to implementation. 
  
- <img src="http://flexiblepower.github.io/powermatcher/images/RTEmagicC_Photo_0010.jpg.jpg">
+ <img src="{{ site.url }}/images/RTEmagicC_Photo_0010.jpg.jpg">
 
 The seminar consisted of a series of interesting presentations by distribution system operators, energy suppliers, energy system providers and others. Most of them tested and demonstrated the PowerMatcher in different pilot projects, or are planning to do so in the near future. The PowerMatcher was shown to be applicable in concrete business cases for industrial virtual power plants, the introduction of electrical vehicles and smart coordination of home appliances.
  
